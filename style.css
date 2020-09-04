@@ -1,0 +1,39 @@
+body {
+	background: #202121;
+	height: 100%;
+	width: 100%;
+	margin: 0px;
+	padding: 0px;
+	position: absolute;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #BA061B;
+	text-decoration: none;
+}
+
+.content {
+	color: white;
+}
+
+.menu {
+	background: #0A0A0A;
+	list-style-type: none;
+	text-align: left;
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu li {
+	display: inline-block;
+	font-size: 24px;
+	padding-left: 5px;
+	padding-right: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
