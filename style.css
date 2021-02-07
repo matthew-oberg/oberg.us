@@ -11,6 +11,10 @@ body {
     height: 2.25em;
 }
 
+#right {
+    float: right;
+}
+
 #menu a {
     color: #FFFFFF;
     padding-bottom: 0.25em;
