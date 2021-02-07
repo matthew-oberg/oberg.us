@@ -47,6 +47,13 @@ body {
     font-size: 1.15em;
 }
 
+#headshot {
+    float: right;
+    padding-top: 0;
+    padding-bottom: 0;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+
 h1 {
     font-size: 1.75em;
     color: #C46210;
