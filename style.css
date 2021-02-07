@@ -35,6 +35,7 @@ body {
     padding-bottom: 0.1em;
     padding-left: 0.75em;
     padding-right: 0.75em;
+    font-size: 2em;
 }
 
 #intro-p {
@@ -47,7 +48,7 @@ body {
 }
 
 h1 {
-    font-size: 1.8em;
+    font-size: 1.75em;
     color: #C46210;
 }
 
