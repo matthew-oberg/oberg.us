@@ -1,5 +1,6 @@
 #menu {
     background-color: #555555;
+    margin: 0px;
 }
 
 #menu a {
@@ -9,4 +10,5 @@
     padding-left: 0.5em;
     padding-right: 0.5em;
     font-size: 2em;
+    text-decoration: none;
 }
