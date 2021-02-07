@@ -1,0 +1,12 @@
+#menu {
+    background-color: #555555;
+}
+
+#menu a {
+    color: #FFFFFF;
+    padding-bottom: 0.25em;
+    padding-top: 0.25em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 2em;
+}
