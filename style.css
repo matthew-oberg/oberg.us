@@ -28,3 +28,26 @@ body {
 #menu a:hover {
     background-color: #000000;
 }
+
+#intro-h {
+    float: left;
+    margin: 1.5em;
+    padding: 1.5em;
+}
+
+#intro-p {
+    float: left;
+    margin: 1.5em;
+    padding: 1.5em;
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 1.75em;
+    color: #C46210;
+}
+
+p {
+    font-size: 0.75em;
+    color: #555555;
+}
