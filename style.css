@@ -30,7 +30,7 @@ body {
 }
 
 #intro-h {
-    float: left;
+    align: left;
     padding-top: 0.25em;
     padding-bottom: 0.1em;
     padding-left: 0.75em;
@@ -39,7 +39,7 @@ body {
 }
 
 #intro-p {
-    float: left;
+    align: left;
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0.75em;
@@ -48,7 +48,7 @@ body {
 }
 
 #headshot {
-    float: right;
+    align: right;
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0.75em;
