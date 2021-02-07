@@ -11,7 +11,7 @@ body {
     height: 2.25em;
 }
 
-#right {
+.right {
     float: right;
 }
 
