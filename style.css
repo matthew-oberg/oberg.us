@@ -29,21 +29,22 @@ body {
     background-color: #000000;
 }
 
+#intro {
+    display: inline-block;
+}
+
 #intro-h {
     float: left;
-    display: inline-block;
     font-size: 2em;
 }
 
 #intro-p {
     float: left;
-    display: inline-block;
     font-size: 1.15em;
 }
 
 #headshot {
     float: right;
-    display: inline-block
 }
 
 h1 {
