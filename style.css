@@ -31,19 +31,23 @@ body {
 
 #intro-h {
     float: left;
+    padding-top: 0.25em;
+    padding-bottom: 0.1em;
     padding-left: 0.75em;
     padding-right: 0.75em;
 }
 
 #intro-p {
     float: left;
+    padding-top: 0;
+    padding-bottom: 0;
     padding-left: 0.75em;
     padding-right: 0.75em;
-    font-size: 1em;
+    font-size: 1.25em;
 }
 
 h1 {
-    font-size: 1.75em;
+    font-size: 2em;
     color: #C46210;
 }
 
