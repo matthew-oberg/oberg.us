@@ -30,7 +30,7 @@ body {
 }
 
 #intro-h {
-    float: left;
+    display: inline;
     padding-top: 0.25em;
     padding-bottom: 0.1em;
     padding-left: 0.75em;
@@ -39,7 +39,6 @@ body {
 }
 
 #intro-p {
-    float: left;
     display: inline;
     padding-top: 0;
     padding-bottom: 0;
@@ -51,6 +50,7 @@ body {
 #headshot {
     float: right;
     display: inline;
+    max-width: 25%;
     padding-top: 0;
     padding-bottom: 0;
     padding-left: 0.75em;
