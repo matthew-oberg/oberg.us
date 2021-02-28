@@ -31,14 +31,17 @@ body {
 
 #intro {
     overflow: auto;
+    display: block;
 }
 
 #intro-left {
     float: left;
+    width: 75%;
 }
 
 #intro-right {
     float: right;
+    width: auto;
 }
 
 #intro-h {
