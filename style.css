@@ -30,6 +30,7 @@ body {
 }
 
 #intro {
+    overflow: auto;
 }
 
 #intro-left {
