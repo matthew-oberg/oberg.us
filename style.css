@@ -30,8 +30,7 @@ body {
 }
 
 #intro {
-    display: inline-block;
-    margin: 0.5em;
+    display: block;
 }
 
 #intro-h {
@@ -41,6 +40,7 @@ body {
 
 #intro-p {
     float: left;
+    font-size: 1.15em;
 }
 
 #intro-image {
