@@ -88,12 +88,14 @@ body {
     float: left;
     width: 40%;
     margin: 0.75em;
+    text-align: center;
 }
 
 .project-right {
     float: right;
     width: 40%;
     margin: 0.75em;
+    text-align: center;
 }
 
 h1 {
