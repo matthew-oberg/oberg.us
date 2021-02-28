@@ -30,7 +30,6 @@ body {
 }
 
 #intro {
-    display: block;
 }
 
 #intro-h {
@@ -45,6 +44,7 @@ body {
 
 #intro-image {
     float: right;
+    margin: 0.25em;
 }
 
 h1 {
