@@ -37,12 +37,14 @@ body {
 #intro-h {
     float: left;
     font-size: 2em;
-    margin: 0.5em;
 }
 
 #intro-p {
     float: left;
-    font-size: 1.15em;
+}
+
+#intro-image {
+    float: right;
 }
 
 h1 {
