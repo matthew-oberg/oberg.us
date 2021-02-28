@@ -36,7 +36,7 @@ body {
 
 #intro-left {
     float: left;
-    width: auto;
+    width: 80%;
     margin-left: 0.75em;
 }
 
@@ -50,6 +50,10 @@ body {
 }
 
 #intro-p {
+    font-size: 1.15em;
+}
+
+#intro-p a {
     font-size: 1.15em;
 }
 
