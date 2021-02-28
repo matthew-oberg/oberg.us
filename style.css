@@ -73,6 +73,8 @@ body {
 
 #intro-image {
     margin: 0.75em;
+    width: auto;
+    height: auto;
 }
 
 h1 {
