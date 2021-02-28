@@ -31,11 +31,13 @@ body {
 
 #intro {
     display: inline-block;
+    margin: 0.5em;
 }
 
 #intro-h {
     float: left;
     font-size: 2em;
+    margin: 0.5em;
 }
 
 #intro-p {
