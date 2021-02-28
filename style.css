@@ -32,22 +32,24 @@ body {
 #intro {
 }
 
-#intro-h {
+#intro-left {
     float: left;
+}
+
+#intro-right {
+    float: right;
+}
+
+#intro-h {
     font-size: 2em;
-    clear: left;
 }
 
 #intro-p {
-    float: left;
     font-size: 1.15em;
-    clear: left;
 }
 
 #intro-image {
-    float: right;
     margin: 0.75em;
-    clear: right;
 }
 
 h1 {
