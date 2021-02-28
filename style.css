@@ -36,7 +36,8 @@ body {
 
 #intro-left {
     float: left;
-    width: 75%;
+    width: 80%;
+    margin-left: 0.75em;
 }
 
 #intro-right {
