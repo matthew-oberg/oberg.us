@@ -45,6 +45,7 @@ body {
 #intro {
     overflow: auto;
     display: block;
+    width: 100%;
 }
 
 #intro-left {
@@ -55,7 +56,7 @@ body {
 
 #intro-right {
     float: right;
-    width: 10%;
+    width: 15%;
 }
 
 #intro-h {
