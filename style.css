@@ -54,7 +54,7 @@ body {
 }
 
 #intro-p a {
-    font-size: 1.15em;
+    font-size: inherit;
 }
 
 #intro-image {
