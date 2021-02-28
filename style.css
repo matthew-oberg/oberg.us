@@ -35,16 +35,19 @@ body {
 #intro-h {
     float: left;
     font-size: 2em;
+    clear: both;
 }
 
 #intro-p {
     float: left;
     font-size: 1.15em;
+    clear: both;
 }
 
 #intro-image {
     float: right;
-    margin: 0.25em;
+    margin: 0.75em;
+    clear: both;
 }
 
 h1 {
