@@ -8,6 +8,15 @@ body {
     text-align: center;
 }
 
+.left-p {
+    margin-left: 0.75em;
+}
+
+.left-p a {
+    font-size: inherit;
+    color: #C46210;
+}
+
 #menu {
     background-color: #555555;
     margin: 0;
