@@ -21,8 +21,12 @@
             <div class="project-left">
                 <h2>Servers</h2>
                 <p>
-                I host my own web and email servers using Arch Linux on <a href="https://vultr.com/" target="_blank">Vultr</a> cloud virtual machines.<br>
-                Read more <a href="/projects/servers.html">here</a>.
+                I host my own web and email servers using Arch Linux on <a href="https://vultr.com/" target="_blank">Vultr</a> cloud virtual machines.<br><br>
+                I installed the OS, configured DNS records for web and email, configured static public IP networking, and configured the firewalls for both servers.<br><br>
+                The web server serves pages using NGINX, hosts a MariaDB database, and supports both PHP7 and PHP8.<br><br>
+                The email server is based on Postfix and Dovecot. It also uses openDMARC, openDKIM, SpamAssassin, RouncdCube, and PostfixAdmin. The email server has its own NGINX and MariaDB installations as well.<br><br>
+                The mail server uses MTA-STS (mandatory TLS), Sender Policy Framework, and DomainKeys Identified Mail for security.<br><br>
+                Both servers are regularly maintained, updated, and improved upon.
                 </p>
             </div>
             <div class="project-right">
