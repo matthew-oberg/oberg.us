@@ -85,6 +85,11 @@ body {
     margin-bottom: 1em;
 }
 
+.projects a {
+    font-size: inherit;
+    color: #C46210;
+}
+
 .project-left {
     float: left;
     width: 45%;
