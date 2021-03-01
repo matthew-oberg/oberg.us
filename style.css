@@ -78,10 +78,11 @@ body {
     max-height: 90%;
 }
 
-#projects {
+.projects {
     overflow: auto;
     display: block;
     max-width: 100%;
+    margin-bottom: 1em;
 }
 
 .project-left {
